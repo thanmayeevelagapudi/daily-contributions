@@ -1,0 +1,10 @@
+Day 1 - Starting GitHub Contributions
+
+From today, I’ve decided to start using GitHub regularly to track my coding progress.
+
+Today, I made small improvements to my EduQuizPortal project:
+- Fixed a few typos in the README file
+- Improved some code comments in both frontend (Angular) and backend (Spring Boot) files
+- Cleaned up unused imports in one backend class
+
+It wasn’t a big coding day, but it’s a step toward consistency.
